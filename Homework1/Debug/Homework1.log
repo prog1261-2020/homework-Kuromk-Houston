@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Vendor2DSource.cpp
+  Vector2D.cpp
+  Generating Code...
+Vendor2DSource.obj : error LNK2019: unresolved external symbol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Vector2D const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVVector2D@@@Z) referenced in function _main
+C:\Users\brand\source\repos\Homework1\Debug\Homework1.exe : fatal error LNK1120: 1 unresolved externals
